@@ -1,0 +1,7 @@
+bite
+chew
+drink
+eat
+movehead
+explore
+sleep

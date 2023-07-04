@@ -1,0 +1,6 @@
+awake
+bite
+drink
+eat
+forage
+sleep

@@ -1,0 +1,14 @@
+bite 92		80 12
+chew 140	100 20
+drink 180	100 20
+eat 103		80 20
+movehead 151	100 20
+explore 102	80 20
+sleep 118	80 20
+
+lick 83
+movebody 57
+nod 75
+smell 34
+spaceout 54
+walk 73
